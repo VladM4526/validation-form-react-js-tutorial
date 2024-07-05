@@ -66,7 +66,7 @@ export const IconName = styled(FaUser)`
   bottom: 16px;
 `;
 
-export const IconEmail = styled(FaLock)`
+export const IconEmail = styled(MdEmail)`
   width: 24px;
   height: 24px;
   position: absolute;
@@ -74,7 +74,7 @@ export const IconEmail = styled(FaLock)`
   bottom: 16px;
 `;
 
-export const IconPassword = styled(MdEmail)`
+export const IconPassword = styled(FaLock)`
   width: 24px;
   height: 24px;
   position: absolute;
